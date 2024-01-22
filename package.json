@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://JavierRuizArango.github.io/RetoReact/dist",
+  "homepage": "https://javierruizarango.github.io/RetoReact/dist",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
