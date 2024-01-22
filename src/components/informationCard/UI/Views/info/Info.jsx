@@ -6,7 +6,7 @@ const Info = () => {
     <div className="info--container">
       <div className="photo--container">
         <img
-          src="/src/assets/me.jpg"
+          src="https://media.licdn.com/dms/image/D4E03AQFg5gVHRmPnxg/profile-displayphoto-shrink_800_800/0/1698974403334?e=2147483647&v=beta&t=cZadtKXqhkEK1ITi8QbU2mfi-TpzkBTxmxfC77SrcPQ"
           alt="Imagen de perfil"
           className="info--image"
         />

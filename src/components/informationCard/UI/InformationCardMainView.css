@@ -4,8 +4,7 @@
   justify-content: center;
   width: 15%;
   height: 50%;
-  min-width: 250px;
-  min-height: 652px;
+  min-width: 260px;
   padding: 2% 5%;
   background-color: #23242D;
   overflow: hidden;
@@ -21,6 +20,7 @@
   border-radius: 10px;
   overflow: hidden;
   background-color: #191B21;
+  min-height: 651px;
 }
 
 .card-content:hover {
