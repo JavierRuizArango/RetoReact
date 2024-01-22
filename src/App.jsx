@@ -1,20 +1,12 @@
-import Info from './components/Info'
-import About from './components/About'
-import Interest from './components/Interest'
-import Footer from './components/Footer'
-import './App.css'
+import "./App.css";
+import InformationCardMainView from "./components/informationCard/UI/InformationCardMainView";
 
 function App() {
   return (
-    <>
-      <Info/>
-      <About/>
-      <Interest/>
-      <Footer/>
-
-        
-    </>
-  )
+    <div className='app'>
+      <InformationCardMainView/>
+    </div>
+  );
 }
 
-export default App
+export default App;
